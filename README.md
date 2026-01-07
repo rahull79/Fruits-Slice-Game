@@ -29,3 +29,10 @@ A fun and interactive **Fruit Slice Game** inspired by classic arcade slicing ga
 ```bash
 pip install pygame
 python main.py
+Fruit-Slice-Game/
+│── assets/
+│   ├── fruits/
+│   ├── bombs/
+│── sounds/
+│── main.py / index.html
+│── README.md
